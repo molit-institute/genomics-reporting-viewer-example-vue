@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "stencil-components": "file:../../stencil-components",
+    "trystencil": "file:../../trystencil",
     "vue": "^2.6.11"
   },
   "devDependencies": {
