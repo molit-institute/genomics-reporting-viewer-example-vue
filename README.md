@@ -1,20 +1,16 @@
-# stencil in vue example
-This is an example Project showcasing the useage of stencil-components in an Vue.js-Project.
+# @molit/genomics-reporting-viewer in vue example
+This is an example Project showcasing the useage of @molit/genomics-reporting-viewer in an Vue.js-Project.
 
-## Using the components
-- Run `npm install stencil-components --save`
+## Installation 
 
-- In your main.js add the following
+### Clone
 
-```js
-import { applyPolyfills, defineCustomElements } from 'stencil-components/loader';
+- Clone this repo to your local machine using ``
+### Setup
 
-applyPolyfills().then(() => {
-    // Surrounding the defineCustomElemnts() with applyPolyfills() is only needed if you would like to use the components on older browsers
-    defineCustomElements();
-});
+> install npm packages
+
+```shell
+$ npm install
 ```
-- Then you can use the element anywhere in your template, JSX, html etc
-
-Need more information? Check out the docs [here](https://stenciljs.com/docs/vue).
 

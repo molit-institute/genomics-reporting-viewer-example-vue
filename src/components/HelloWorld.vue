@@ -1,8 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
-    <my-component first="Kvothe" last="Arliden"></my-component>
-    <molecular-report fhir-base-url="https://fhir.molit.eu/fhir" id-molecular-report="364" ></molecular-report>
+    <genomics-report fhir-base-url="https://fhir.molit.eu/fhir" id-genomics-report="364" ></genomics-report>
   </div>
 </template>
 
