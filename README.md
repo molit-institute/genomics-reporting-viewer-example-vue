@@ -1,5 +1,5 @@
 # @molit/genomics-reporting-viewer in vue example
-This is an example Project showcasing the useage of @molit/genomics-reporting-viewer in an Vue.js-Project.
+This is an example Project showcasing the usage of @molit/genomics-reporting-viewer in an Vue.js-Project.
 
 ## Installation 
 
